@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>অরবিন্দ শিল্পাশ্রম | Arabinda Shilpashram</title>
+
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">
+        <h1>অরবিন্দ শিল্পাশ্রম</h1>
+        <p>Arabinda Shilpashram</p>
+    </div>
+
+    <nav>
+        <a href="#home">হোম</a>
+        <a href="#about">আমাদের সম্পর্কে</a>
+        <a href="#gallery">গ্যালারি</a>
+        <a href="#contact">যোগাযোগ</a>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    <h2>ঐতিহ্যের ছোঁয়ায় শিল্পের নিখুঁত প্রকাশ</h2>
+
+    <p>
+        পাথর ও মার্বেলের দেবদেবীর মূর্তি এবং
+        ভাস্কর্য নির্মাণে বিশ্বস্ত প্রতিষ্ঠান।
+    </p>
+
+    <a class="btn" href="https://wa.me/919564594920">
+        WhatsApp-এ অর্ডার করুন
+    </a>
+</section>
+
+<section id="about">
+    <h2>আমাদের সম্পর্কে</h2>
+
+    <p>
+        অরবিন্দ শিল্পাশ্রমে দক্ষ কারিগরের হাতে
+        পাথর ও মার্বেলের দেবদেবীর মূর্তি,
+        ভাস্কর্য এবং কাস্টম শিল্পকর্ম তৈরি করা হয়।
+    </p>
+</section>
+
+<section id="gallery">
+    <h2>গ্যালারি</h2>
+
+    <div class="gallery">
+
+        <div class="box">গণেশ মূর্তি</div>
+        <div class="box">মা লক্ষ্মী</div>
+        <div class="box">মা সরস্বতী</div>
+        <div class="box">শিব মূর্তি</div>
+        <div class="box">রাধা-কৃষ্ণ</div>
+        <div class="box">কাস্টম অর্ডার</div>
+
+    </div>
+</section>
+
+<section id="contact">
+
+<h2>9564594920/9635968351</h2>
+
+<p><strong>ঠিকানা:</strong><br>
+Susunia Hill,<br>
+Bankura, West Bengal
+</p>
+
+<p><strong>WhatsApp:</strong><br>
++91 95645 94920
+</p>
+
+<a class="btn" href="https://wa.me/919564594920">
+যোগাযোগ করুন
+</a>
+
+</section>
+
+<footer>
+
+<p>
+© 2026 Arabinda Shilpashram<br>
+All Rights Reserved.
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
